@@ -27,22 +27,6 @@
         ]
       },
       {
-        "title": "YouTuber",
-        "startDate": "2021",
-        "description": "This project helps anyone to get a playlist or video from youtube to his device, according to the quality needed and the topic selected and many other parameters that makes dealing with the app is such a great oppourtunity and I am glad to make it and got high points and reviews about it :)",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "https://github.com/T246-Edu/YouTube-Downloader",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          }
-        ]
-      },
-      {
         "title": "Flask login template",
         "startDate": "2021",
         "description": "This project is a flask login system made for websites that have a backend through it. The system has a security options and questions. :)",
@@ -70,7 +54,9 @@
         "title": "the mailer",
         "startDate": "2021",
         "description": "One of the first apps I was working on developing myself. I had to develop back-end implementation for app that controls a mailing system. This was also my first project in kivy framework. I've learned a lot!",
-        "images": ["images/portfolio/adventure/p1.jpg"],
+        "images": [
+          "images/portfolio/adventure/p1.jpg"
+        ],
         "url": "https://github.com/T246-Edu/mailer-sysytem-with-python-and-kivy",
         "technologies": [
           {
