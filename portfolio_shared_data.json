@@ -23,7 +23,7 @@
         "class": "fab fa-instagram"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "../../public/images/portfolio/myProfile.jpg"
   },
   "skills": {
     "icons": [
