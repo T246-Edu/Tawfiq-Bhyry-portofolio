@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Tawfiq-Bhyry-portofolio/static/css/main.40f0e6cc.chunk.css",
-    "main.js": "/Tawfiq-Bhyry-portofolio/static/js/main.055769a4.chunk.js",
-    "main.js.map": "/Tawfiq-Bhyry-portofolio/static/js/main.055769a4.chunk.js.map",
-    "runtime-main.js": "/Tawfiq-Bhyry-portofolio/static/js/runtime-main.d1a6d748.js",
-    "runtime-main.js.map": "/Tawfiq-Bhyry-portofolio/static/js/runtime-main.d1a6d748.js.map",
+    "main.js": "/Tawfiq-Bhyry-portofolio/static/js/main.a82f393a.chunk.js",
+    "main.js.map": "/Tawfiq-Bhyry-portofolio/static/js/main.a82f393a.chunk.js.map",
+    "runtime-main.js": "/Tawfiq-Bhyry-portofolio/static/js/runtime-main.20598e1f.js",
+    "runtime-main.js.map": "/Tawfiq-Bhyry-portofolio/static/js/runtime-main.20598e1f.js.map",
     "static/css/2.d64471e2.chunk.css": "/Tawfiq-Bhyry-portofolio/static/css/2.d64471e2.chunk.css",
-    "static/js/2.f0bc4815.chunk.js": "/Tawfiq-Bhyry-portofolio/static/js/2.f0bc4815.chunk.js",
-    "static/js/2.f0bc4815.chunk.js.map": "/Tawfiq-Bhyry-portofolio/static/js/2.f0bc4815.chunk.js.map",
+    "static/js/2.4524cd39.chunk.js": "/Tawfiq-Bhyry-portofolio/static/js/2.4524cd39.chunk.js",
+    "static/js/2.4524cd39.chunk.js.map": "/Tawfiq-Bhyry-portofolio/static/js/2.4524cd39.chunk.js.map",
     "index.html": "/Tawfiq-Bhyry-portofolio/index.html",
-    "precache-manifest.71f9578fab5694bcdea10526de58129e.js": "/Tawfiq-Bhyry-portofolio/precache-manifest.71f9578fab5694bcdea10526de58129e.js",
+    "precache-manifest.7cf198533a7a3a14dc9592a44d668b43.js": "/Tawfiq-Bhyry-portofolio/precache-manifest.7cf198533a7a3a14dc9592a44d668b43.js",
     "service-worker.js": "/Tawfiq-Bhyry-portofolio/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/Tawfiq-Bhyry-portofolio/static/css/2.d64471e2.chunk.css.map",
     "static/css/main.40f0e6cc.chunk.css.map": "/Tawfiq-Bhyry-portofolio/static/css/main.40f0e6cc.chunk.css.map",
-    "static/js/2.f0bc4815.chunk.js.LICENSE.txt": "/Tawfiq-Bhyry-portofolio/static/js/2.f0bc4815.chunk.js.LICENSE.txt"
+    "static/js/2.4524cd39.chunk.js.LICENSE.txt": "/Tawfiq-Bhyry-portofolio/static/js/2.4524cd39.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1a6d748.js",
+    "static/js/runtime-main.20598e1f.js",
     "static/css/2.d64471e2.chunk.css",
-    "static/js/2.f0bc4815.chunk.js",
+    "static/js/2.4524cd39.chunk.js",
     "static/css/main.40f0e6cc.chunk.css",
-    "static/js/main.055769a4.chunk.js"
+    "static/js/main.a82f393a.chunk.js"
   ]
 }
