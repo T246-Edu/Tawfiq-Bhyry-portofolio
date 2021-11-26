@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7727a0e939e7625bd6f705bb93c5802f",
+    "revision": "89f48bab25bcab825a0374a776fc82b3",
     "url": "/Tawfiq-Bhyry-portofolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tawfiq-Bhyry-portofolio/static/css/2.d64471e2.chunk.css"
   },
   {
-    "revision": "3ff878e5d4f159ed1251",
+    "revision": "f0cc5d5764f91d73f08a",
     "url": "/Tawfiq-Bhyry-portofolio/static/css/main.40f0e6cc.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tawfiq-Bhyry-portofolio/static/js/2.4524cd39.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3ff878e5d4f159ed1251",
-    "url": "/Tawfiq-Bhyry-portofolio/static/js/main.a82f393a.chunk.js"
+    "revision": "f0cc5d5764f91d73f08a",
+    "url": "/Tawfiq-Bhyry-portofolio/static/js/main.30ba9ab4.chunk.js"
   },
   {
     "revision": "ba24a95d75348fd5bd56",
