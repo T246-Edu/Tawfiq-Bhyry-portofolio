@@ -1,0 +1,100 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Tawfiq Bhyry. Fictional person for preview purposes :) I'm working and developing myself with newest Artificial Intelligence libraries in python like opencv, tensorflow and pytorch. What you are seeing now is my portfolio. If you liked this portfolio, make sure to give me your opnions to make it more efficient for others. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "YouTuber",
+        "startDate": "2021",
+        "description": "This project helps anyone to get a playlist or video from youtube to his device, according to the quality needed and the topic selected and many other parameters that makes dealing with the app is such a great oppourtunity and I am glad to make it and got high points and reviews about it :)",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://github.com/T246-Edu/YouTube-Downloader",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          }
+        ]
+      },
+      {
+        "title": "Flask login template",
+        "startDate": "2021",
+        "description": "This project is a flask login system made for websites that have a backend through it. The system has a security options and questions. :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/T246-Edu/flask-login-system",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          }
+        ]
+      },
+      {
+        "title": "the mailer",
+        "startDate": "2021",
+        "description": "One of the first apps I was working on developing myself. I had to develop back-end implementation for app that controls a mailing system. This was also my first project in kivy framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg"
+        ],
+        "url": "https://github.com/T246-Edu/mailer-sysytem-with-python-and-kivy",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Freelancer",
+        "title": "React-Native Developer",
+        "years": "4.2021 - present",
+        "mainTech": [
+          "React-Native"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Bootstrap",
+          "Django",
+          "opencv-java",
+          "google ML-kit"
+        ]
+      },
+      {
+        "company": "CSEC, we teach people CS",
+        "title": "Founder&Chairman",
+        "years": "09.2020 - 11.2021",
+        "mainTech": [
+          "CS Education"
+        ],
+        "technologies": [
+          "web-development",
+          "app-development",
+          "IT",
+          "Robotics"
+        ]
+      }
+    ]
+  }

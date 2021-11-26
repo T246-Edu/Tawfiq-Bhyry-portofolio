@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TawfiqBhyryPortopholoio/static/css/main.40f0e6cc.chunk.css",
+    "main.js": "/TawfiqBhyryPortopholoio/static/js/main.71824330.chunk.js",
+    "main.js.map": "/TawfiqBhyryPortopholoio/static/js/main.71824330.chunk.js.map",
+    "runtime-main.js": "/TawfiqBhyryPortopholoio/static/js/runtime-main.03138dd0.js",
+    "runtime-main.js.map": "/TawfiqBhyryPortopholoio/static/js/runtime-main.03138dd0.js.map",
+    "static/css/2.d64471e2.chunk.css": "/TawfiqBhyryPortopholoio/static/css/2.d64471e2.chunk.css",
+    "static/js/2.f0bc4815.chunk.js": "/TawfiqBhyryPortopholoio/static/js/2.f0bc4815.chunk.js",
+    "static/js/2.f0bc4815.chunk.js.map": "/TawfiqBhyryPortopholoio/static/js/2.f0bc4815.chunk.js.map",
+    "index.html": "/TawfiqBhyryPortopholoio/index.html",
+    "precache-manifest.65f139fac17c8c526708adf29233b198.js": "/TawfiqBhyryPortopholoio/precache-manifest.65f139fac17c8c526708adf29233b198.js",
+    "service-worker.js": "/TawfiqBhyryPortopholoio/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/TawfiqBhyryPortopholoio/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.40f0e6cc.chunk.css.map": "/TawfiqBhyryPortopholoio/static/css/main.40f0e6cc.chunk.css.map",
+    "static/js/2.f0bc4815.chunk.js.LICENSE.txt": "/TawfiqBhyryPortopholoio/static/js/2.f0bc4815.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03138dd0.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.f0bc4815.chunk.js",
+    "static/css/main.40f0e6cc.chunk.css",
+    "static/js/main.71824330.chunk.js"
+  ]
+}
