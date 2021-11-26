@@ -9,7 +9,7 @@ import iconC from "@iconify/icons-logos/c-plusplus"
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
-      var profilepic = "images/" + this.props.sharedBasicInfo.image;
+      var profilepic = "images/" + this.props.sharedBasicInfo.image2;
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
