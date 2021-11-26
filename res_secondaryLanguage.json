@@ -27,6 +27,22 @@
       ]
     },
     {
+      "title": "YouTuber",
+      "startDate": "2021",
+      "description": "يساعد هذا المشروع أي شخص في الحصول على قائمة تشغيل أو فيديو من youtube إلى جهازه ، وفقًا للجودة المطلوبة والموضوع المحدد والعديد من المعلمات الأخرى التي تجعل التعامل مع التطبيق فرصة رائعة ويسعدني أن أقوم بها وحصلت على نسبة عالية نقاط واستعراضات حول هذا الموضوع :)",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://github.com/T246-Edu/YouTube-Downloader",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        }
+      ]
+    },
+    {
       "title": "Flask login template",
       "startDate": "2021",
       "description": "هذا المشروع عبارة عن نظام تسجيل دخول قارورة مصمم لمواقع الويب التي تحتوي على خلفية من خلاله. النظام لديه خيارات أمنية وأسئلة. :)",
