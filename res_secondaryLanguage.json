@@ -13,7 +13,7 @@
     {
       "title": "YouTuber",
       "startDate": "2021",
-      "description": "This project helps anyone to get a playlist or video from youtube to his device, according to the quality needed and the topic selected and many other parameters that makes dealing with the app is such a great oppourtunity and I am glad to make it and got high points and reviews about it :)",
+      "description": "يساعد هذا المشروع أي شخص في الحصول على قائمة تشغيل أو فيديو من youtube إلى جهازه ، وفقًا للجودة المطلوبة والموضوع المحدد والعديد من المعلمات الأخرى التي تجعل التعامل مع التطبيق فرصة رائعة ويسعدني أن أقوم بها وحصلت على نسبة عالية نقاط واستعراضات حول هذا الموضوع :)",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
         "images/portfolio/animal-shelter/p2.jpg"
@@ -29,7 +29,7 @@
     {
       "title": "Flask login template",
       "startDate": "2021",
-      "description": "This project is a flask login system made for websites that have a backend through it. The system has a security options and questions. :)",
+      "description": "هذا المشروع عبارة عن نظام تسجيل دخول قارورة مصمم لمواقع الويب التي تحتوي على خلفية من خلاله. النظام لديه خيارات أمنية وأسئلة. :)",
       "images": [
         "images/portfolio/photography/p1.jpg",
         "images/portfolio/photography/p2.jpg"
@@ -53,7 +53,7 @@
     {
       "title": "the mailer",
       "startDate": "2021",
-      "description": "One of the first apps I was working on developing myself. I had to develop back-end implementation for app that controls a mailing system. This was also my first project in kivy framework. I've learned a lot!",
+      "description": "أحد التطبيقات الأولى التي كنت أعمل عليها في تطوير نفسي. اضطررت إلى تطوير التنفيذ الخلفي للتطبيق الذي يتحكم في نظام بريد. كان هذا أيضًا أول مشروع لي في إطار عمل kivy. لقد تعلمت الكثير!",
       "images": ["images/portfolio/adventure/p1.jpg"],
       "url": "https://github.com/T246-Edu/mailer-sysytem-with-python-and-kivy",
       "technologies": [
@@ -66,8 +66,8 @@
   ],
   "experience": [
     {
-      "company": "Freelancer",
-      "title": "React-Native Developer",
+      "company": "عامل حر",
+      "title": "React-Native مطور",
       "years": "4.2021 - present",
       "mainTech": ["React-Native"],
       "technologies": [
@@ -80,7 +80,7 @@
     },
     {
       "company": "CSEC, we teach people CS",
-      "title": "Founder&Chairman",
+      "title": "مؤسس و رئيس",
       "years": "09.2020 - 11.2021",
       "mainTech": ["CS Education"],
       "technologies": ["web-development", "app-development", "IT", "Robotics"]
