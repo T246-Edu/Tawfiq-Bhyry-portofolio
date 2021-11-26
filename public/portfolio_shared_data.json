@@ -1,0 +1,67 @@
+{
+  "basic_info": {
+    "name": "Tawfiq Bhyry",
+    "titles": [
+      "Front-end Developer",
+      "Back-end web developer",
+      "Data analyst",
+      "Content writer",
+      "Mobile App developer with react native",
+      "Mobile App Developer With Flutter",
+      "Human resources manager",
+      "Computer vision developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "python",
+        "class": "devicon-python-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "70"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "C-sharp",
+        "class": "devicon-csharp-plain",
+        "level": "80"
+      },
+      {
+        "name": "Django",
+        "class": "devicon-django-plain",
+        "level": "80"
+      }
+    ]
+  }
+}
