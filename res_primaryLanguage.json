@@ -11,6 +11,22 @@
     },
     "projects": [
       {
+        "title": "Movie-app",
+        "startDate": "2022",
+        "description": "This project helps anyone to get a movie that he likes from a movies database and get all the information about it and the trailer and many other things that makes dealing with the app is such a great oppourtunity and I am glad to make it and got high points and reviews about it :) ",
+        "images": [
+          "images/portfolio/movie/p1.jpg",
+          "images/portfolio/movie/p2.jpg"
+        ],
+        "url": "https://github.com/tawfiqbhyry/movie-app",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
         "title": "YouTuber",
         "startDate": "2021",
         "description": "This project helps anyone to get a playlist or video from youtube to his device, according to the quality needed and the topic selected and many other parameters that makes dealing with the app is such a great oppourtunity and I am glad to make it and got high points and reviews about it :)",
