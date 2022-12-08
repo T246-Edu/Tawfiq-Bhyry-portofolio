@@ -87,13 +87,13 @@
         "startDate": "2022",
         "description": "this is a learning french app where students are allowed to find resources about french and materials to solve after understanding the concepts",
         "images": [
-          "images/portfolio/french app/p1.jpg",
-          "images/portfolio/french app/p2.jpg",
-          "images/portfolio/french app/p3.jpg",
-          "images/portfolio/french app/p4.jpg",
-          "images/portfolio/french app/p5.jpg",
-          "images/portfolio/french app/p6.jpg",
-          "images/portfolio/french app/p7.jpg"
+          "images/portfolio/french app/p1.png",
+          "images/portfolio/french app/p2.png",
+          "images/portfolio/french app/p3.png",
+          "images/portfolio/french app/p4.png",
+          "images/portfolio/french app/p5.png",
+          "images/portfolio/french app/p6.png",
+          "images/portfolio/french app/p7.png"
         ],
         "url": "https://github.com/tawfiqbhyry/movie-app",
         "technologies": [
