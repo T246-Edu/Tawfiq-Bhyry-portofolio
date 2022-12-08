@@ -95,6 +95,20 @@
           "IT",
           "Robotics"
         ]
+      },
+      {
+        "company": "AutoRun",
+        "title": "Network Engineer",
+        "years": "08.2022 - now",
+        "mainTech": [
+          "Network design - network solutions"
+        ],
+        "technologies": [
+          "CCNA",
+          "MicroTic router os",
+          "IT",
+          "ISP design"
+        ]
       }
     ]
   }
