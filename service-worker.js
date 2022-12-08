@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Tawfiq-Bhyry-portofolio/precache-manifest.9e17f438085d1ca89c0b219cb13ddb4e.js"
+  "/Tawfiq-Bhyry-portofolio/precache-manifest.2aa10afc6f054b338699521e8ff2cbf9.js"
 );
 
 self.addEventListener('message', (event) => {

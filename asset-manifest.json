@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Tawfiq-Bhyry-portofolio/static/css/main.db76a3b0.chunk.css",
-    "main.js": "/Tawfiq-Bhyry-portofolio/static/js/main.01e17648.chunk.js",
-    "main.js.map": "/Tawfiq-Bhyry-portofolio/static/js/main.01e17648.chunk.js.map",
+    "main.js": "/Tawfiq-Bhyry-portofolio/static/js/main.6e0fc4d0.chunk.js",
+    "main.js.map": "/Tawfiq-Bhyry-portofolio/static/js/main.6e0fc4d0.chunk.js.map",
     "runtime-main.js": "/Tawfiq-Bhyry-portofolio/static/js/runtime-main.20598e1f.js",
     "runtime-main.js.map": "/Tawfiq-Bhyry-portofolio/static/js/runtime-main.20598e1f.js.map",
     "static/css/2.d64471e2.chunk.css": "/Tawfiq-Bhyry-portofolio/static/css/2.d64471e2.chunk.css",
     "static/js/2.31b8d4ba.chunk.js": "/Tawfiq-Bhyry-portofolio/static/js/2.31b8d4ba.chunk.js",
     "static/js/2.31b8d4ba.chunk.js.map": "/Tawfiq-Bhyry-portofolio/static/js/2.31b8d4ba.chunk.js.map",
     "index.html": "/Tawfiq-Bhyry-portofolio/index.html",
-    "precache-manifest.9e17f438085d1ca89c0b219cb13ddb4e.js": "/Tawfiq-Bhyry-portofolio/precache-manifest.9e17f438085d1ca89c0b219cb13ddb4e.js",
+    "precache-manifest.2aa10afc6f054b338699521e8ff2cbf9.js": "/Tawfiq-Bhyry-portofolio/precache-manifest.2aa10afc6f054b338699521e8ff2cbf9.js",
     "service-worker.js": "/Tawfiq-Bhyry-portofolio/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/Tawfiq-Bhyry-portofolio/static/css/2.d64471e2.chunk.css.map",
     "static/css/main.db76a3b0.chunk.css.map": "/Tawfiq-Bhyry-portofolio/static/css/main.db76a3b0.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.31b8d4ba.chunk.js",
     "static/css/main.db76a3b0.chunk.css",
-    "static/js/main.01e17648.chunk.js"
+    "static/js/main.6e0fc4d0.chunk.js"
   ]
 }
