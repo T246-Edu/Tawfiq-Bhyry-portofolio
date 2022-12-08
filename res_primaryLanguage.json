@@ -31,8 +31,8 @@
         "startDate": "2021",
         "description": "This is a project where you can enter the username of github user and get all the data related to him that is legally you can view",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/gh-users/p1.jpg",
+          "images/portfolio/gh-users/p2.jpg"
         ],
         "url": "https://github.com/tawfiqbhyry/gh-user-app",
         "technologies": [
